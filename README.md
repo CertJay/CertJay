@@ -10,11 +10,15 @@ I turn messy operational records into systems people trust: checked at the door,
 
 | Project | What it is | Stack |
 |---|---|---|
-| [e-QUAART](https://github.com/CertJay/e-QUAART) | Assessment results management, analytics and intervention tracking for a schools division. Schema validation, a verification queue and an idempotent year-end rollover. | TypeScript, Express, Prisma, SQLite/PostgreSQL, React |
+| [e-QUAART](https://github.com/CertJay/e-QUAART-showcase) | Assessment results management, analytics and intervention tracking for a schools division. Schema validation, a verification queue and an idempotent year-end rollover. Code private; story and docs public. | TypeScript, Express, Prisma, SQLite/PostgreSQL, React |
 | [School Division Dashboard](https://miguel-jay-faustino.vercel.app/blog/school-division-dashboard) | 46 field-collected Excel workbooks consolidated by a Python pipeline with data-quality reporting, served as a role-based dashboard. In use internally since April 2026. | Python, pandas, Streamlit, Plotly |
 | [python-zero-to-de](https://github.com/CertJay/python-zero-to-de) | My public Python-for-data-engineering study repo: 21 modules checked by automated tests. | Python, pytest |
 
 Read the build story: [From 46 workbooks to one dashboard](https://miguel-jay-faustino.vercel.app/blog/school-division-dashboard)
+
+Also: a Personal Data Sheet system (CS Form No. 212, Revised 2025) built during my DepEd internship, which generates the official PDF from database entries with role-based access, and quantitative research support for 150+ student researchers' theses and dissertations since 2019.
+
+**Awards:** Hackathon 1st place (3rd year) and 4th place (2nd year) · SQL Mystery 2nd place (4th year)
 
 ## Technologies I've worked with
 
