@@ -10,7 +10,7 @@ I turn messy operational records into systems people trust: checked at the door,
 
 | Project | What it is | Stack |
 |---|---|---|
-| [e-QUAART](https://github.com/CertJay/e-QUAART-showcase) | Assessment results management, analytics and intervention tracking for a schools division. Schema validation, a verification queue and an idempotent year-end rollover. Code private; story and docs public. | TypeScript, Express, Prisma, SQLite/PostgreSQL, React |
+| [e-QUAART](https://github.com/CertJay/e-QuAART-documentation) | Assessment results management, analytics and intervention tracking for a schools division. Schema validation, a verification queue and an idempotent year-end rollover. Code private; story and docs public. | TypeScript, Express, Prisma, SQLite/PostgreSQL, React |
 | [School Division Dashboard](https://miguel-jay-faustino.vercel.app/blog/school-division-dashboard) | 46 field-collected Excel workbooks consolidated by a Python pipeline with data-quality reporting, served as a role-based dashboard. In use internally since April 2026. | Python, pandas, Streamlit, Plotly |
 | [python-zero-to-de](https://github.com/CertJay/python-zero-to-de) | My public Python-for-data-engineering study repo: 21 modules checked by automated tests. | Python, pytest |
 
